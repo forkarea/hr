@@ -1,0 +1,39 @@
+.margin-pos-cnt {
+    margin: 30px 0;
+}
+
+.title-admin{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.list-error {
+    list-style: none;
+    list-style-type: square;
+}
+
+.btn-position {
+    margin: 10px 0;
+}
+
+.recommendation-user {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.btn-pos,
+.checkbox-pos {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.btn-pos * {
+    margin-right: 2px;
+}
+
+.pagination-pos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
